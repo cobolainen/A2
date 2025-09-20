@@ -1,0 +1,17 @@
+Resumen
+ 
+ - Se ha actualizado el resumen con los cambios introducidos en el Tema
+
+Resumen express
+ 
+ - Se ha actualizado el resumen express para incluir los cambios hechos tanto en el resumen como en el tema
+
+Referencias
+ 
+ - Se han incluido nuevas referencias y se ha comprobado que las existentes funcionan
+ 
+Doc Adicional
+
+ - Se ha revisado la carpeta Doc adicional y actualizado los documentos a las últimas versiones disponibles (también se han eliminado los más antiguos)
+
+

@@ -1,0 +1,7 @@
+TEMA 126 - Seguridad a nivel de aplicación
+
+
+Cambios realizados:
+  - Cambios menores de redacción, ortografía y ajustes de línea.
+  - Añadida pequeña referencia a mecanismos de gestion de autorizaciones
+  - Añadido enlace a guia CCN-STIC 812

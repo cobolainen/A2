@@ -1,0 +1,11 @@
+Preparatic 27:
+
+Resumen:
+	- Reeditado
+
+Resumen Express:
+	- Se crea el resumen express
+
+Contenido adicional:
+	- Se añaden guías ccn de Android, IOS, MDM, Gestión de dispositivos
+

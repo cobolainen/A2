@@ -1,0 +1,8 @@
+- Tema: el Resumen ha pasado a ser un tema dada su extensión. Se ha reestructurado el contenido y actualizado al reglamento eIDAS2.
+- Resumen: se elabora un nuevo resumen a partir del tema actualizado.
+- Resumen express: se actualiza el contenido al reglamento eIDAS2.
+- Doc adicional: se incluyen 3 nuevos documentos:
+	- XXX_Reglamento2024_1183.pdf (Reglamento 2024/1183, indica los nuevos cambios introducidos por eIDAS2)
+	- XXX_Reglamento910_2014_eIDAS.pdf (sustituye al documento anterior del reglamento eIDAS XXIV_Reglamento910_2014_eIDAS.pdf)
+	- XXX_Ley6_2020.pdf (sustituye el XXVIII_Ley6_2020.pdf por la versión más actualizada de la ley).
+	- XXX_OrdenETD_465_2021.pdf (Orden ETD/465/2021)

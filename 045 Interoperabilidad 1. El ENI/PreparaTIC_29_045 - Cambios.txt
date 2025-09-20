@@ -1,0 +1,6 @@
+﻿- Se añade el RD 203/2021 dentro del marco normativo y los artículos que hacen referencia al ENI.
+- Corrección de errata en el marco normativo de la Ley 39/2015.
+- Actualización del apartado introducción al ENI en lo referente a la coordinación.
+- Corrección de referencias al antiguo ENS.
+- Se han añadido más referencias al ámbito europeo.
+- Inclusión de un apartado referente a Europa.

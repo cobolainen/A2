@@ -1,0 +1,11 @@
+CONTENIDOS - PREPARATIC XXIX: 
+- Se reestructuran los apartados del tema para mayor claridad.
+- Se reedita la sección sobre economía del dato, incluyendo actualización de los datos según la Estrategia Europea de Datos.
+- Se reedita la sección de iniciativas europeas y nacionales, incluyendo información adicional.
+- Se crea resumen express.
+- Se crea fichero de referencias.
+
+
+DOC. ADICIONAL - PREPARATIC XXIX: 
+- Se incluye infografía de la Estrategia Europea de Datos
+- Se incluye infografía de la Ley de Datos (Data Act)

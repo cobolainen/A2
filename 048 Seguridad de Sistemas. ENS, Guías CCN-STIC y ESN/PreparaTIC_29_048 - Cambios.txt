@@ -1,0 +1,28 @@
+TEMA 48 - ENS, Guías CCN-STIC y Estrategia de Seguridad Nacional.
+
+Cambios realizados (PREP29):
+- Documento PreparaTIC_29_048 - Tema
+	* Correcciones de formato
+	* Actualizaciones menores de contenido
+		o ENS. Ideas principales, Guías de seguridad CCN-STIC
+		o Categorización del sistema de acuerdo al ENS
+		o Instrucciones Técnicas de Seguridad: Enlace a ITS en el PAe
+		o Actualización Certificados de Conformidad
+		o Estrategia Nacional
+
+- Documento PreparaTIC_29_048 - Resumen
+	* Correcciones de formato
+	* Actualización de contenido
+		o Ámbito de aplicación
+		o Realización de Auditorías
+		o Guías CCN-STIC
+
+- Se añade en documentación adicional los siguientes documentos:
+	* Infografía "07_ENS_2022_Cambios clave. Nuevo ENS"
+	* RD 31/2022
+	* Estrategia Nacional de Seguridad 2021
+	* Guía de Adecuación al ENS conforme al Perfil de Cumplimiento Específico de Requisitos Esenciales de Seguridad
+	* Directiva (UE) 2022/2555 (NIS2)
+	* Índice de Series Guías CCN-STIC
+
+- Se añade documento de texto con enlaces de interés (ver con revisor)

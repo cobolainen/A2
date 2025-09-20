@@ -1,0 +1,8 @@
+
+ - Se trata de un tema nuevo, por tanto se generan los siguientes documentos:
+	
+	- Resumen
+	- Resumen express
+	- Referencias
+
+ - Se incluye la carpeta Doc Adicional para ampliar los aspectos recogidos en el documento de resumen.
